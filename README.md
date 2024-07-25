@@ -7,7 +7,6 @@ Discover, rate, and track your favorite movies with usePopcorn, a React-based we
 **Live Deployment: [https://pjf3av-usepopcorn.netlify.app/](https://pjf3av-usepopcorn.netlify.app/)**.
 
 ## Key Features
-The core functionalities of this application are:
 - **Search for Movies:** Easily locate your favorite movies by searching within the platform.
 - **Movie Rating System:** Rate movies on a scale of 1 to 10 according to lopg your review of each movie.
 - **Organized Watched Section:** Access a neatly organized "Watched" section to review rated movies along with additional details.
