@@ -19,3 +19,34 @@ Discover, rate, and track your favorite movies with usePopcorn, a React-based we
 - [OMDb API](https://www.omdbapi.com/)
 - CSS
 - HTML
+
+## Getting Started
+To clone and deploy this project locally, follow these simple steps.
+
+### Prerequisites
+
+First, make sure you have the latest version of npm:
+
+```bash
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone this repo
+
+```
+git clone https://github.com/pjf3av/usepopcorn.git
+```
+
+2. Install NPM packages
+
+```
+npm i
+```
+
+3. Start server
+
+```
+npm start
+```
