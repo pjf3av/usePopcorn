@@ -1,6 +1,6 @@
 # usePopcorn
 
-**Note: This project is based on the [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
+**Note: This project is based on [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
 
 Discover, rate, and track your favorite movies with usePopcorn, a React-based web app featuring a responsive design, intuitive interface, and interactive movie rating.
 
